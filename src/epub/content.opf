@@ -84,8 +84,29 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-man-of-ideas.xhtml" id="a-man-of-ideas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/adventure.xhtml" id="adventure.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-awakening.xhtml" id="an-awakening.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/death.xhtml" id="death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/drink.xhtml" id="drink.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/godliness.xhtml" id="godliness.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/loneliness.xhtml" id="loneliness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mother.xhtml" id="mother.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/nobody-knows.xhtml" id="nobody-knows.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/queer.xhtml" id="queer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/respectability.xhtml" id="respectability.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sophistication.xhtml" id="sophistication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/tandy.xhtml" id="tandy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-book-of-the-grotesque.xhtml" id="the-book-of-the-grotesque.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-philosopher.xhtml" id="the-philosopher.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-strength-of-god.xhtml" id="the-strength-of-god.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-teacher.xhtml" id="the-teacher.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-thinker.xhtml" id="the-thinker.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-untold-lie.xhtml" id="the-untold-lie.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
