@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-06-15T02:08:09Z</dc:date>
+		<meta property="dcterms:modified">2021-06-15T02:08:09Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,15 +51,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">24</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Winesburg, Ohio&lt;/i&gt;, is set in a fictional town in early 1900s America based on &lt;a href="https://standardebooks.org/ebooks/sherwood-anderson"&gt;Anderson&lt;/a&gt;’s boyhood memories of his hometown of Clyde, Ohio. The novel is actually a series of interconnected short stories, with each one focusing on the life of a different resident of the sleepy, pre-industrial town. Though each story peers into the personal life of a different character, the common threads running through all of them are George Willard, the young reporter for the &lt;i&gt;Winesburg Eagle&lt;/i&gt;—and a pervasive sense of loneliness, even despair. As the stories obliquely trace George’s coming of age, he becomes a symbol of the hope the town holds for the future as its citizens struggle against the oppressive smallness of their existence and their paradoxical inability to form meaningful bonds with each other in such a small community.&lt;/p&gt;
+			&lt;p&gt;The stories in &lt;i&gt;Winesburg, Ohio&lt;/i&gt; are of a decidedly melancholy nature, but their real beauty lies in the vivid characterization of the big personalities living in the small town. The simplicity of Anderson’s plain-styled prose paints a rich picture, with each character precisely portrayed in all of their dusty down-to-earth physicality. One can almost picture the narrator as the whiskey-soaked voice of Tom Waits, rolling each syllable around in his mouth as the summer heat lies heavy in the twilight air.&lt;/p&gt;
+			&lt;p&gt;Atmosphere aside, the stories are also unique in that Anderson creates narrative tension not with plot development, but with insights into the psychology of the kinds of people who choose, or don’t choose, to live in Winesburg. This makes the novel one of the earliest examples of literary modernism. It was praised by its contemporaries on publication, with H. L. Mencken stating that the novel “embodies some of the most remarkable writing done in America in our time.” It remained both acclaimed and widely read throughout the 1930s, when its popularity waned with the author’s own. In the 1960s critics reevaluated it, firmly placing it in the canon of modern American classics.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/416</dc:source>
 		<dc:source>https://archive.org/details/winesburgohio005800mbp/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">74843</meta>
+		<meta property="se:reading-ease.flesch">79.5</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Winesburg,_Ohio</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sherwood-anderson_winesburg-ohio</meta>
 		<dc:creator id="author">Sherwood Anderson</dc:creator>
