@@ -60,7 +60,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/416</dc:source>
 		<dc:source>https://archive.org/details/winesburgohio005800mbp</dc:source>
-		<meta property="se:word-count">74843</meta>
+		<meta property="se:word-count">74021</meta>
 		<meta property="se:reading-ease.flesch">79.5</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Winesburg,_Ohio</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sherwood-anderson_winesburg-ohio</meta>
