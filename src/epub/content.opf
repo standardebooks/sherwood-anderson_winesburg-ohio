@@ -69,6 +69,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sherwood_Anderson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045519</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="author-of-introduction">Irving Howe</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Howe, Irving</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Irving_Howe</meta>
